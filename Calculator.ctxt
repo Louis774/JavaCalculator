@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\n\ GUI\ calculator.\n\n\ @author\ Louis\ Theobald\ lt462\n\ @version\ \n
+comment1.params=
+comment1.target=Calculator()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Calculator\n
+comment2.params=
+comment2.target=void\ makeCalculator()
+comment2.text=\n\ Creates\ the\ gui\ for\ the\ calculator\n
+comment3.params=
+comment3.target=void\ handleLogic()
+comment3.text=\n\ Handles\ the\ logic\ for\ the\ calculator\n\n\ @return\ \ the\ total\ after\ doing\ all\ the\ sums\n
+comment4.params=digit
+comment4.target=boolean\ isOperator(java.lang.String)
+comment4.text=\n\ Checks\ whether\ the\ digit\ is\ an\ operator\ or\ not\n\n\ @param\ \ digit\ \ a\ string\ to\ be\ checked\n\ @return\ \ \ \ true\ or\ false\n
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.text=\n\ Triggers\ when\ a\ button\ in\ the\ gui\ is\ clicked\n\n\ @param\ \ e\ \ The\ event\ attached\ to\ the\ gui\ button\ that\ was\ clicked\n
+numComments=6
